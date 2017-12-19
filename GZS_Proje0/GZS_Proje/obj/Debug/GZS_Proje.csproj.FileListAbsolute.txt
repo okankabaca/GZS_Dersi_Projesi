@@ -1,0 +1,15 @@
+D:\okankabaca\Gerçek zamanlı sistemler\Proje\GZS_Proje\GZS_Proje\bin\Debug\GZS_Proje.exe.config
+D:\okankabaca\Gerçek zamanlı sistemler\Proje\GZS_Proje\GZS_Proje\bin\Debug\GZS_Proje.exe
+D:\okankabaca\Gerçek zamanlı sistemler\Proje\GZS_Proje\GZS_Proje\bin\Debug\GZS_Proje.pdb
+D:\okankabaca\Gerçek zamanlı sistemler\Proje\GZS_Proje\GZS_Proje\obj\Debug\GZS_Proje.csprojResolveAssemblyReference.cache
+D:\okankabaca\Gerçek zamanlı sistemler\Proje\GZS_Proje\GZS_Proje\obj\Debug\GZS_Proje.Properties.Resources.resources
+D:\okankabaca\Gerçek zamanlı sistemler\Proje\GZS_Proje\GZS_Proje\obj\Debug\GZS_Proje.csproj.GenerateResource.Cache
+D:\okankabaca\Gerçek zamanlı sistemler\Proje\GZS_Proje\GZS_Proje\obj\Debug\GZS_Proje.csproj.CoreCompileInputs.cache
+D:\okankabaca\Gerçek zamanlı sistemler\Proje\GZS_Proje\GZS_Proje\obj\Debug\GZS_Proje.exe
+D:\okankabaca\Gerçek zamanlı sistemler\Proje\GZS_Proje\GZS_Proje\obj\Debug\GZS_Proje.pdb
+D:\okankabaca\Gerçek zamanlı sistemler\Proje\GZS_Proje\GZS_Proje\obj\Debug\GZS_Proje.formgiris.resources
+D:\okankabaca\Gerçek zamanlı sistemler\Proje\GZS_Proje\GZS_Proje\obj\Debug\GZS_Proje.uygulama.resources
+D:\okankabaca\Gerçek zamanlı sistemler\Proje\GZS_Proje\GZS_Proje\bin\Debug\MySql.Data.dll
+D:\okankabaca\Gerçek zamanlı sistemler\Proje\GZS_Proje\GZS_Proje\bin\Debug\MySql.Data.xml
+D:\okankabaca\Gerçek zamanlı sistemler\Proje\GZS_Proje\GZS_Proje\obj\Debug\GZS_Proje.kullanici_kayit.resources
+D:\okankabaca\Gerçek zamanlı sistemler\Proje\GZS_Proje\GZS_Proje\obj\Debug\GZS_Proje.hastakaydi.resources
